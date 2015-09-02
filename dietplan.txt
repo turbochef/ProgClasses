@@ -1,0 +1,124 @@
+
+1 / 5
+Git Gud Dietetic Modus 
+v1.1 
+
+A bit of philosophy before we get into the nuts and bolts of things: you may need to rethink your view of your body. You might think of the human organism as something akin to a machine, something that needs maintenance and tuning – a fragile system, something that can only be disadvantaged by periodic insults to what would be considered smooth operation.  
+You need to be disabused of that right now. 
+You – and biological systems in general – are what would be considered not just robust (resistant to adverse effects), but antifragile: they benefit from and are made stronger by chaotic inputs. Within a certain range, of course; obviously too much chaos of (for example) water intake would kill you – but the idea that your manifold homeostatic mechanisms are something that need to be used on a regular basis is something you should cleave to. That is a key concept behind intermittent fasting, calorie cycling, and even weight training in general. I can direct you to further reading on the subject of chaotic systems, as I am not an authority on the topic, but it colors how I treat any actions towards human subjects: the median should be avoided in light of our preference towards chaos, and the work we do should be skewed towards the long tails; an inversion of the normal distribution.  
+
+Key Concepts 
+
+* Calorie cycling is always utilized. You will eat different amounts on different days of the week as dictated by training and other factors. 
+* Macronutrient cycling is employed implicitly, though not explicitly. 
+o On days you eat more total calories, you will likely get the difference from carbohydrate. This is not to say carbohydrate cycling is an explicit part of this method, as you could get the extra calories from protein or fat; but your macronutrient splits are unlikely to be identical on days of different caloric intake.  
+* Stasis is useless. There’s always a movement from one state to another – it is speed that varies. 
+* Set point theory has some merit to it, but not how it is usually presented: set point is not innate, but malleable. Keep your body at a certain level of fatness for long enough and homeostatic mechanisms will move to maintain it. This is why sometimes people may at first seem paradoxically skinny or fat in face of a new diet – they have not persisted long enough to overcome their homeostasis.  
+o This is why a minimum of two weeks must be spent at each stage of the continuum. The timescales for meaningful body recomposition are not short in light of the profound tendency towards the status quo. 
+* Try to eat mostly real food. I shouldn’t have to tell you what that means. 
+* Macronutrients!*  
+o Protein: 1.6 – 1.8g/kg protein  
+o Fat: 0.9g/kg minimum (trade with carbs as desired) 
+o Carbohydrate: 1g/lb minimum (unless precluded by total energy target) 
+
+*These macros do not apply for the “Quick and Painful” cut or “Keto Reset Switch.” See sections for details. 
+
+2 / 5
+The Continuum 
+
+Cut <-> Recomp <-> Bulk 
+
+Making the Cut 
+This is when your primary goal is to lose fat while maintaining lean mass. You should strive to maintain your current lifts, but around 5% loss is normal and attributable to sustained energy deficit. You’ll need to employ autoregulation here: some days will just be better than others, so you’ll need to adapt to your fluctuating energy levels. Don’t expect progress in terms of weight lifted. That comes later.  
+
+* The Standard Cut 
+o 8 week blocks. 1 week recomp break between blocks if employing multiple segments. 
+o -20% TDEE 6 days/week 
+o Once weekly refeed, +10-20% TDEE 
+* Must be a training day. Prioritize carbohydrates.  
+* Determine total intake by assessment of weekly energy and performance. 
+* The Quick and Painful Cut 
+o 4 week block. At least 2 weeks recomp between blocks if you’re masochistic enough to employ multiple segments.  
+o 1g/lb protein to spare lean tissue. Follow same guidelines for fats. This will necessarily lead you to eat low carb six days a week. 
+o -35% TDEE 6 days/week 
+o Once weekly reefed, +20% TDEE. 
+* Carb up as hard as you can. Only need normal amount of protein this day. 
+o This is an extreme method that I can’t really recommend. It can work if you can handle the stress, but I sure as shit can’t. DO NOT DO THIS FOR YOUR FIRST CUT. 
+
+Recomposition 
+This is where you should spend most of your time. You’ll be eating more on training days and less on rest days (or more on heavy days and less on light days for the high frequency master race among us) such that your weekly net intake is slightly above or below maintenance. This will allow you to make strength gains while inching towards fat loss or muscle gain, as you prioritize. Recomps are sustainable nigh indefinitely.  
+
+* The Cuttish Recomp 
+o Aim for a weekly deficit up to -0.25 lbs, with average of -0.15 lbs.
+o For 3 lifting days this should be about [+20%/-20%] 
+o For 4 lifting days this should be about [+10%/-20%] 
+* The Bulkish Recomp 
+o Aim for a weekly surplus up to +0.25lbs, with average of +0.15 lbs. 
+o For 3 lifting days this should be about [+20%/-10%] 
+o For 4 lifting days this should be about [+20%/-20%] 
+
+Bulkan Up 
+The mass games. You want to pack on quality weight, but some fat is to be expected. The goal is to minimize that fat gain while still eating at a reasonable surplus. I'm not even going to entertain the thought of dirty bulking, because that's just putting on unnecessary fluff that'll require a longer cut. Cutting sucks. Avoid long cuts by never getting too fat in the first place.  
+3 / 5
+
+* EZ Duz It Bulk 
+o Duration is at your discretion. A good rule of thumb is to stop when your pants starts getting too tight in the waist, or you just generally find yourself a little disgusting first thing in the morning.  
+o Aim for a weekly surplus of up to +0.5 lbs 
+o For 3 lifting days this should be about [+20%/0] 
+o For 4 lifting days this should be about [+15%/0] 
+o Consider an "inverse refeed" once a week if you feel your fat gain is getting out of hand, but you don't want to derail the bulk yet. This would be one day a week where you'd eat -10-20% below TDEE. 
+
+Tools 
+* Calorie counting app. I recommend MyFitnessPal, but there are many others. Use it religiously until you git gud enough to develop a good intuition for your usual foods. 
+* Caloric needs calculator. Scooby's workshop has one, my favorite is 1percentedge.com/ifcalc 
+o Always lowball your activity level. Lifting weights hardly burns shit unless you do mad volume; your main consideration will be aerobic activity.  
+
+Tuning Your Metabolism: Intermittent Fasting and The Keto Reset Switch 
+
+Intermittent Fasting 
+Your body has all these governors for hunger and glucose, but how many people ever use them? Most people eat in the morning before they’re really hungry, then steadily eat all day, keeping their insulin and glucose chronically elevated. The idea here is to employ your regulatory mechanisms on a regular basis so that you are more sensitized to them, and thus more efficient at nutrient partitioning (getting stuff where it needs to be, like your muscles; and not where it doesn’t, like your belly). 
+So what does this entail? Basically you just skip breakfast. You’ll be hungry at first, but eventually that will stop as your hunger hormones synch to your internal clock. Just stay busy, have some black coffee or unsweetened tea – just don’t consume any calories. Really, it’s pretty easy.  
+
+* Fast 14 – 18 hours of out every 24 
+o Simplest method is 10PM – 12PM the next day (or equivalent) 
+o Lengthen fast as desired and tolerated 
+o Do not stress about minutes 
+* Your meals will probably get larger. That’s okay. Just make sure total daily intake is on point. 
+* Excellent when cutting, makes managing hunger easier for most people. 
+
+The Keto Reset Switch 
+Ketosis is the body’s alternative energy pathway for use in times of carbohydrate restriction (evolutionarily speaking: starvation). This means everything switches over from glucose to ketones for fuel. And it works! Surprisingly well for a redundant system, in fact – you can go your whole life in ketosis.  
+The only problem is that it’s incredibly restrictive, prohibitively so for most people. That’s why I don’t advise it as a permanent solution, but rather as a short term tool for improving your metabolic profile. A short keto run works as a hormonal reset switch, improving your insulin sensitivity and helping
+4 / 5
+your body to better partition nutrients. If you’re overfat and have been so for a long time, this could be just what you need if more conservative methods have failed you. 
+
+* 10 day duration 
+* NO MORE THAN 50g CARB PER DAY 
+* 1.8g/kg protein minimum 
+* Fat as remainder of calories 
+o You will eat at or slightly under maintenance [-15% to 0%] for the duration. Many people find it difficult to even eat to maintenance on keto; my advice is not to force feed yourself, let yourself undereat if you are full. 
+* Good as an intro to a cut or recomp. Might only need to do it once. 
+
+Supplementation 
+I know someone's going to ask, so I'll just get it out of the way - yes, there are legal fat loss aids that you can use when cutting or recomping. They are reasonably safe, effective, and cheap - but they are not the magic bullets that the more dangerous illegal fat loss aids are. You'll still need to put in the work (and in the case of yohimbine, quite a bit more work). Potentially dangerous for those with heart or thyroid conditions, so sorry guys, no supplements for you. 
+
+EC Stack 
+Ephedrine and caffeine. They work together synergistically, gotta take them together to get the full effect. This is a general purpose fat loss aid, it'll work at any fatness level. It's a beta receptor agonist, feel free to read up on what that means at your leisure - tl;dr it generally kicks up fat mobilization and oxidation while providing stimulation and appetite suppression.  
+
+* Up to 3 doses of 25mg/200mg of ephedrine/caffeine daily, spaced 4 hours apart 
+* Start with 12.5mg/200mg once or twice daily to assess side effects, and increase stepwise as tolerated. May cause insomnia. 
+* Do not take this if you're going to be exerting yourself in the hot sun. Drink plenty of water, and mind your potassium intake. It's easy to sweat yourself into hypokalemia. 
+* Bronkaid is the most widely available, get it behind the counter at pharmacies. Caffeine pills are cheap, powder is even cheaper if you're willing to deal with it. 
+
+Yohimbine 
+This is a much more specialized tool, and it requires more from you. It does not cause a generalized increase in fat mobilization; rather, it decreases reuptake by certain adipose areas via alpha recpetor antagonism. These are the "stubborn fat areas" that usually resist being lost; so with yohimbine you can lose them at the same rate as less stubborn areas. BUT: you're the one that has to mobilize the fat. That means cardio.  
+
+* 0.2g/kg dose once daily, when fasted (ideally in the morning) 
+* Perform 20-40 minutes of low-intensity cardio (fast walk, slow jog, jump rope, cycling - anything as long as it isn't overly strenuous). 
+* Continue fasting for 3 to 4 hours after the dose was administered. 
+* Pills can be purchased for a trial run, but I recommend getting the powder instead, as it is an order of magnitude cheaper. Empty capsules, a microscoop, and you're good to go. 
+
+5 / 5
+Disclaimer: I’m not long from being a Registered Dietitian, but I am not a doctor – just an incredibly well-read amateur. Do not take any of this as legit medical advice. If you screw up a supplement dosage and end up in the hospital getting your heart slowed down, remember this disclaimer. 
+
+
